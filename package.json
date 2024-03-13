@@ -1,0 +1,41 @@
+{
+  "name": "starter-pack-amz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@formkit/auto-animate": "^0.8.1",
+    "@heroicons/react": "v1",
+    "@mui/material": "^5.15.12",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "framer-motion": "^7.2.1",
+    "react": "^18.2.0",
+    "react-compare-image": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-scripts": "5.0.1",
+    "swiper": "^8.3.2",
+    "web-vitals": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "vite": "^5.0.0"
+  }
+}
